@@ -1,3 +1,5 @@
+<%= paginate @places, theme: 'twitter-bootstrap-4',
+pagination_class: "pagination-sm", nav_class: "d-inline-b" %>
 <% @places.each do |place| %>
   <div class="booyah-box col-10 offset-1">
     <h1><%= link_to place.name, place_path(place) %></h1><br />
