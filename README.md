@@ -1,24 +1,12 @@
-# README
+<img width="1271" alt="Screen Shot 2020-02-19 at 1 26 35 PM" src="https://user-images.githubusercontent.com/35432042/74868605-226d4e80-531c-11ea-9e40-1ca78c858213.png">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Nomster
 
-Things you may want to cover:
+A Yelp clone that integrates with the Google Maps API and includes features like user comments, star ratings, image uploading, and user authentication.
 
-* Ruby version
+# Features
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Built on Rails
+- Mobile-responsive
+- Creating and Browsing user created locations
+- Comments enabled accompanied by personal star rating
