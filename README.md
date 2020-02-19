@@ -10,3 +10,13 @@ A Yelp clone that integrates with the Google Maps API and includes features like
 - Mobile-responsive
 - Creating and Browsing user created locations
 - Comments enabled accompanied by personal star rating
+
+# Tools Used
+
+- Ruby on Rails
+- PostgreSQL
+- Devise
+- Bootstrap
+- Google Fonts
+- Geocoder
+- SendGrid
